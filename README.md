@@ -60,10 +60,10 @@ The analysis primarily involves the application of Welch's t-test to compare the
 
 #### Comparing HIV Aids related deaths in India vs USA
 
-<img width="576" alt="image" src="https://cdn.discordapp.com/attachments/1098198554398441544/1235561172720422942/239825895-480cc695-d3d3-40ae-83d1-66d85e917df0.png?ex=6634d183&is=66338003hm=0dec2c600aa23d83fb1484a20be91b4ca4d982907970cb5f93b9ba13fe6dc706">
+<img width="576" alt="image" src="https://media.discordapp.net/attachments/1098198554398441544/1235561172720422942/239825895-480cc695-d3d3-40ae-83d1-66d85e917df0.png?ex=6634d183&is=66338003&hm=0dec2c600aa23d83fb1484a20be91b4ca4d982907970cb5f93b9ba13fe6dc706&=&format=webp&quality=lossless&width=810&height=1005">
 
 
 
 #### Comparing Meningitis related deaths in India vs USA
-<img width="569" alt="image" src="https://cdn.discordapp.com/attachments/1098198554398441544/1235561132647907328/239825679-5893732d-fb13-4973-bc89-d36670fd428f.png?ex=6634d179&is=66337ff9hm=e5f1ef7a73df901de91e378b800335851ee21bd8ec0665d64432409dae75d8d5">
+<img width="569" alt="image" src="https://media.discordapp.net/attachments/1098198554398441544/1235561132647907328/239825679-5893732d-fb13-4973-bc89-d36670fd428f.png?ex=6634d179&is=66337ff9&hm=e5f1ef7a73df901de91e378b800335851ee21bd8ec0665d64432409dae75d8d5&=&format=webp&quality=lossless&width=810&height=969">
 
